@@ -51,6 +51,7 @@ function App() {
     <div>
       <BrowserRouter>
         <Header user={user}/>
+        
       
       <Routes>
         <Route path="/" element={
